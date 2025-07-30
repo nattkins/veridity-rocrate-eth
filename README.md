@@ -34,12 +34,6 @@ Transform peer review from unpaid gatekeeping into **professional talent scoutin
 - **EAS**: Attestation for verification records
 - **Low-code tools**: n8n/NocoDB/PostgreSQL for university IT staff
 
-## 💎 Grant Context
-
-**Status**: Supporting £50,000 Ethereum Foundation grant application
-**Partners**: Cardiff University (#4 UK research) + Imperial College London (#3 globally)
-**Timeline**: 6 months to proof verification center deployment
-
 ## 🎯 Implementation Ready
 
 - [Universal Proof Framework](docs/proof-systems/universal-framework.md)
