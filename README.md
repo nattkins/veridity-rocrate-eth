@@ -43,7 +43,7 @@ Transform peer review from unpaid gatekeeping into **professional talent scoutin
 
 ## 🚀 The Result
 
-**~£2,000 total cost** enables both expert validation and patent protection, replacing traditional £25,000 publishing while preserving commercial rights.
+**~$2,000 total cost** enables both expert validation and patent protection, replacing traditional $25,000 publishing while preserving commercial rights.
 
 **Universities become essential infrastructure for systematic truth verification worldwide.**
 
